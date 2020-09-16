@@ -1,4 +1,4 @@
 # whatsanalyser
 Analyse WhatsApp's chats
 
-![zipf](zipf_wa.png)
+![zipf](Zipf_wa.png)
